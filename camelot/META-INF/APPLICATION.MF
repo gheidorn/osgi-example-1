@@ -1,0 +1,8 @@
+Application-Name: camelot
+Application-SymbolicName: camelot
+Application-ManifestVersion: 1.0
+Application-Version: 1.0.0.qualifier
+Application-Content: arthur;version="1.0.0",
+  equipment-manager;version="1.0.0"
+Manifest-Version: 1.0
+
